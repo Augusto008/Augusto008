@@ -7,7 +7,7 @@
 - ✨ My _spécialité_ is to solve problems and I really like it!
 - 📫 How to reach me:
 -   Email: aquila.real0@gmail.com
--   Telephone: +55 41 9 9241 - 4589 (WhatsApp)
+-   Telephone: +55 41 9 9245 - 4189 (WhatsApp)
 -   LinkedIn: https://www.linkedin.com/in/aquilatrindade/
 
 <!---
