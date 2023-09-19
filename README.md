@@ -1,4 +1,4 @@
-- 👋  Hi, My name is Áquila, I'm 27 years old, I currently live in Cascavel, Paraná in Brazil and I'm an early career full stack developer.
+- 👋  Hi, My name is Áquila, I'm 28 years old, I currently live in Cascavel, Paraná in Brazil and I'm an early career full stack developer.
 - 👀 I’m interested in interacting with people who know more than me or want to study with me.
 - 🌱 I’m currently learning database, programming languages and web development.
         I want to know about everything, but my focus is database and software development.
